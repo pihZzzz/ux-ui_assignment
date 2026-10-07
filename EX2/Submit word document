@@ -1,8 +1,8 @@
 HYPERLINK
-<a href="/songs.html">
-<a href="/action.html">
+<a href="music/songs.html">
+<a href="movies/action_movies/action.html">
 <a href="../help.html">
-<a href="../home.html">
-<a href="/action.html">
-<a href="/action.html">
-<a href="./songs.html">
+<a href="../../home.html">
+<a href="action_movies/action.html">
+<a href="../movies/action_movies/action.html">
+<a href="../../music/songs.html">
